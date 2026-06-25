@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PrototipoPWA",
   "resources": {
-    "hash": "sha256-+sYz1qxlb+GW+Og/pbBFutGHJI6m9bcYLy09sIPQTNI=",
+    "hash": "sha256-6jtqQcEVG0Pu6qSq0OuVuO/6wLZOibs4xK0PHsJ1KDo=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.6v6wqcvszi.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.5d02jo09a0.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -69,7 +69,7 @@
       "System.Xml.XDocument.6u5ort2jhs.wasm": "System.Xml.XDocument.wasm",
       "System.sal18ehrzx.wasm": "System.wasm",
       "System.Private.CoreLib.73dncpjsi7.wasm": "System.Private.CoreLib.wasm",
-      "PrototipoPWA.eq4x62esc1.wasm": "PrototipoPWA.wasm",
+      "PrototipoPWA.4hrkogi8qc.wasm": "PrototipoPWA.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.qc8g39g30v.js": "dotnet.native.js",
       "dotnet.native.boem75ye5i.wasm": "dotnet.native.wasm",
@@ -161,7 +161,7 @@
       "System.Xml.ReaderWriter.qtjma03nac.wasm": "sha256-IriA32QC25ipUPZVGPw8cd9Da1aamZpQBFAJ0IfHduI=",
       "System.Xml.XDocument.6u5ort2jhs.wasm": "sha256-cl04bacJifz28SR9uHGDhbi4+8A4fI9GVA0HODCPGA4=",
       "System.sal18ehrzx.wasm": "sha256-7A2VUL5SS7XF9SMTD/1ZoA+DNXtehpDAPs15R9lyz3A=",
-      "PrototipoPWA.eq4x62esc1.wasm": "sha256-ynvnvvmN8DrLRUlJHoawAaS7CGES97S76IqZsxaTDJI="
+      "PrototipoPWA.4hrkogi8qc.wasm": "sha256-6L+U0ue0I3H9S47srUaFTpetEbH9gFNCgcGe1ayoBxQ="
     }
   },
   "cacheBootResources": true,
